@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "xmemory": "c",
-        "xutility": "c",
-        "cstdlib": "c",
-        "stdio.h": "c",
-        "xstring": "c"
-    }
-}
