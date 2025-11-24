@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Code\\ACM\\ChuanZ_Cup\\20251122_Primary\\C.cpp","tests":[{"id":1763798600117,"input":"2\n4 3 2 3\n2\n3\n3\n6 6 4 2\n1\n3\n6\n4\n4\n2","output":"1 2\n1 1\n1 2\n3 5\n2 4\n2 3\n1 2\n2 3\n1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\ACM\\ChuanZ_Cup\\20251122_Primary\\C.cpp","group":"local","local":true}
